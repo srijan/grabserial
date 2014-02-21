@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 #
 # grabserial - program to read a serial port and send the data to stdout
 #
